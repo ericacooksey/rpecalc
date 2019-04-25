@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">RPE Load Calculator</string>
+    <string name="have">I lifted…</string>
+    <string name="want">I want to lift…</string>
+    <string name="weight_label">Weight</string>
+    <string name="reps_label">Reps</string>
+    <string name="rpe_label">RPE</string>
+    <string name="calculate">Calculate!</string>
+    <string name="want_weight">Weight: %s</string>
+    <string name="e1rm_weight">Est 1RM: %s</string>
+
+    <!--Input validation errors-->
+    <string name="rpe_err">Enter a number between 4 and 10</string>
+    <string name="reps_err">Enter a non-zero number</string>
+    <string name="weight_err">Enter a numeric value</string>
+
+    <string name="licensing"><![CDATA[<p>Algorithm adapted from <a href="https://www.plsource.org/rpe-calc/">OpenPowerlifting RPE Load Calculator</a>. Used with permission.</p><p>Source available at <a href="https://github.com/ericacooksey/rpecalc">project GitHub</a>.</p>]]></string>
+</resources>
